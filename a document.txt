@@ -1,5 +1,0 @@
-this document contains text
-
-And a lengthy paragraph that should
-roughly span the height of 3 lines if i can
-just type enough words there we go
